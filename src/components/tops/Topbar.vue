@@ -840,7 +840,6 @@ strong {
 }
 
 .user-name {
-  min-width: 180px;
   text-align: left;
 }
 
